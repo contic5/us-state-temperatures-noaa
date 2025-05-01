@@ -1,0 +1,23 @@
+#root {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(128, 205, 92);
+  padding:10px;
+  min-height: 100vh;
+}
+#inputs_div
+{
+  background-color: rgb(138, 235, 93);
+  margin: 10px 0px;
+  padding: 5px;
+  border: black solid 2px;
+}
+#sort_div
+{
+  background-color: rgb(138, 235, 93);
+  margin: 10px 0px;
+  padding: 5px;
+  border: black solid 2px;
+}
