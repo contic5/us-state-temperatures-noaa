@@ -1,1 +1,0 @@
-<input id="target_month" value={target_month} onChange={handleTargetMonth} type="number" min={1} max={12}></input>
